@@ -1,2 +1,1 @@
-# Python-practice-
-My python learning journey 
+prit("hello github!")
